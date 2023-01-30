@@ -8,7 +8,7 @@ Then start a timer to know when the game is done.
 
 ScreenShots:
 
-![image](https://user-images.githubusercontent.com/80771666/215530058-f52eb77a-7cef-47e1-9580-891681064837.png)
+![image](https://user-images.githubusercontent.com/80771666/215530058-f52eb77a-7cef-47e1-9580-891681064837.png=250x250)
 ![image](https://user-images.githubusercontent.com/80771666/215530140-a1c006b8-4877-46d0-b400-c42adcf58a65.png)
 ![image](https://user-images.githubusercontent.com/80771666/215530394-ce648e40-2919-4340-8a4d-40949507d098.png)
 ![image](https://user-images.githubusercontent.com/80771666/215530561-1cbff169-fae6-4373-9d55-417547b45bfa.png)
